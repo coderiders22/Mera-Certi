@@ -77,6 +77,7 @@ public class MainActivity extends AppCompatActivity {
                         if (task.isSuccessful()) {
                             Intent intent = new Intent(MainActivity.this, page3.class);
                             Toast.makeText( MainActivity.this, "Verification success",Toast.LENGTH_SHORT).show();
+                            startActivity(intent);
                             // User is signed in successfully
                         } else {
                             Toast.makeText(MainActivity.this,"Verification failed",Toast.LENGTH_SHORT).show();
