@@ -1,0 +1,64 @@
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="393dp"
+    android:layout_height="851dp"
+    android:background="@drawable/page2">
+
+
+
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="358dp"
+            android:layout_height="60dp"
+            android:layout_above="@+id/button2_1"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:backgroundTint="#f48221"
+            android:textSize="34dp"
+
+            android:text="English"
+            android:fontFamily="@font/montserratb"
+            android:textColor="#FFFFFF"
+
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.542"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.74" />
+
+        <Button
+            android:fontFamily="@font/montserratb"
+            android:textColor="#FFFFFF"
+
+            android:textSize="34dp"
+            android:id="@+id/button2_1"
+            android:backgroundTint="#f48221"
+            android:layout_width="358dp"
+            android:layout_height="60dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="105dp"
+            android:text="Hindi"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.542"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.962" />
+
+        <ImageView
+            android:id="@+id/nointernet"
+            android:layout_width="393dp"
+            android:layout_height="851dp"
+            android:visibility="gone"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/page3" />
+</androidx.constraintlayout.widget.ConstraintLayout>
+

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="MeraCerti"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.New_certi"
+        tools:targetApi="31">
+        <activity
+            android:name=".payment"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".page14"
+            android:exported="false" />
+        <activity
+            android:name=".page13"
+            android:exported="false" />
+        <activity
+            android:name=".page12"
+            android:exported="false" />
+        <activity
+            android:name=".page11"
+            android:exported="false" />
+        <activity
+            android:name=".page10"
+            android:exported="false" />
+        <activity
+            android:name=".page9_check_status"
+            android:exported="false" />
+        <activity
+            android:name=".page9_proceed_EWS_certi"
+            android:exported="false" />
+        <activity
+            android:name=".page9_documents_needed"
+            android:exported="false" />
+        <activity
+            android:name=".page9_step_wise_procedure"
+            android:exported="false" />
+        <activity
+            android:name=".page9_detailed_elegibility"
+            android:exported="false" />
+        <activity
+            android:name=".page8"
+            android:exported="false" />
+        <activity
+            android:name=".page7"
+            android:exported="false" />
+        <activity
+            android:name=".page6"
+            android:exported="false" />
+        <activity
+            android:name=".page4"
+            android:exported="false" />
+        <activity
+            android:name=".page3"
+            android:exported="false" />
+        <activity
+            android:name=".page2"
+            android:exported="false" />
+        <activity
+            android:name=".SplashActivity"
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
