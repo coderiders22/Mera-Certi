@@ -24,6 +24,10 @@
         "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.new_certi.app-main-40:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
+        "merged": "com.example.new_certi.app-merged_res-38:/layout_activity_page2.xml.flat",
+        "source": "com.example.new_certi.app-main-40:/layout/activity_page2.xml"
+    },
+    {
         "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.new_certi.app-merged_res-38:\\drawable_pic.png.flat",
         "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.new_certi.app-main-40:\\drawable\\pic.png"
     },
@@ -140,6 +144,10 @@
         "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.new_certi.app-main-40:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
+        "merged": "com.example.new_certi.app-merged_res-38:/drawable_img_2.png.flat",
+        "source": "com.example.new_certi.app-main-40:/drawable/img_2.png"
+    },
+    {
         "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.new_certi.app-merged_res-38:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.new_certi.app-main-40:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
@@ -166,6 +174,10 @@
     {
         "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.new_certi.app-merged_res-38:\\drawable_page20.jpg.flat",
         "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.new_certi.app-main-40:\\drawable\\page20.jpg"
+    },
+    {
+        "merged": "com.example.new_certi.app-merged_res-38:/layout_activity_page9_check_status.xml.flat",
+        "source": "com.example.new_certi.app-main-40:/layout/activity_page9_check_status.xml"
     },
     {
         "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.new_certi.app-merged_res-38:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
@@ -236,6 +248,10 @@
         "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.new_certi.app-main-40:\\drawable\\page8.jpg"
     },
     {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.new_certi.app-merged_res-38:\\drawable_shadow_button.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.new_certi.app-main-40:\\drawable\\shadow_button.xml"
+    },
+    {
         "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.new_certi.app-merged_res-38:\\font_montserratb.ttf.flat",
         "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.new_certi.app-main-40:\\font\\montserratb.ttf"
     },
@@ -274,10 +290,6 @@
     {
         "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.new_certi.app-merged_res-38:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.new_certi.app-main-40:\\mipmap-xhdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "com.example.new_certi.app-merged_res-38:/layout_activity_page9_detailed_elegibility.xml.flat",
-        "source": "com.example.new_certi.app-main-40:/layout/activity_page9_detailed_elegibility.xml"
     },
     {
         "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.new_certi.app-merged_res-38:\\raw_detailed_section.mp3.flat",

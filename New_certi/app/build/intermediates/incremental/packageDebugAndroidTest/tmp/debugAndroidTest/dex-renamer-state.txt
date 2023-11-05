@@ -1,7 +1,7 @@
-#Sun Nov 05 22:40:49 IST 2023
-base.0=C\:\\Users\\HP\\Downloads\\Mera-Certificate\\MeraCerti\\New_certi\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes.dex
-base.1=C\:\\Users\\HP\\Downloads\\Mera-Certificate\\MeraCerti\\New_certi\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
-base.2=C\:\\Users\\HP\\Downloads\\Mera-Certificate\\MeraCerti\\New_certi\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\3\\classes.dex
+#Mon Nov 06 03:06:53 IST 2023
+base.0=C\:\\Users\\ASUS\\Desktop\\final poroject\\Mera-Certi\\New_certi\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes.dex
+base.1=C\:\\Users\\ASUS\\Desktop\\final poroject\\Mera-Certi\\New_certi\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+base.2=C\:\\Users\\ASUS\\Desktop\\final poroject\\Mera-Certi\\New_certi\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\3\\classes.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=3/classes.dex

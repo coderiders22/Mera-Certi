@@ -9,6 +9,7 @@ drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable img
 drawable img_1
+drawable img_2
 drawable page1
 drawable page10
 drawable page11
@@ -34,6 +35,7 @@ drawable page9
 drawable payment
 drawable pic
 drawable round_button
+drawable shadow_button
 font montserrat
 font montserratb
 id button
