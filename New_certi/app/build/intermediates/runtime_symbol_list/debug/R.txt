@@ -3438,6 +3438,7 @@ int id imageView2 0x7f09011d
 int id imageView3 0x7f09011e
 int id imageView4 0x7f09011f
 int id imageView5 0x7f090120
+int id imageView6 0x7f09024a
 int id immediateStop 0x7f090121
 int id included 0x7f090122
 int id indeterminate 0x7f090123

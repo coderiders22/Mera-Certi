@@ -19,7 +19,7 @@
         app:layout_constraintVertical_bias="0.954" />
 
 
-    <EditText
+    <TextView
         android:id="@+id/editTextNumber"
         android:layout_width="327dp"
         android:layout_height="215dp"
@@ -35,10 +35,21 @@
 
     <Button
         android:id="@+id/button5"
+        android:elevation="1dp"
+        android:padding="1dp"
+
+
+        android:outlineAmbientShadowColor="#000000"
+        android:translationZ="1dp"
+        android:outlineProvider="background"
+        android:shadowDx="@integer/material_motion_duration_long_1"
+
+        android:stateListAnimator="@null"
+        android:shadowColor="@color/black"
         android:layout_width="248dp"
         android:layout_height="60dp"
         android:backgroundTint="#185393"
-        android:elevation="50dp"
+
         android:fontFamily="@font/montserratb"
         android:text="CONTINUE"
         android:textColor="#FFFFFF"

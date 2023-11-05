@@ -34,6 +34,17 @@
         app:layout_constraintVertical_bias="0.63" />
 
     <androidx.appcompat.widget.AppCompatButton
+        android:elevation="1dp"
+        android:padding="1dp"
+
+
+        android:outlineAmbientShadowColor="#000000"
+        android:translationZ="1dp"
+        android:outlineProvider="background"
+        android:shadowDx="@integer/material_motion_duration_long_1"
+
+        android:stateListAnimator="@null"
+        android:shadowColor="@color/black"
         android:id="@+id/payment_button"
         android:textSize="40dp"
         android:text="PAY"

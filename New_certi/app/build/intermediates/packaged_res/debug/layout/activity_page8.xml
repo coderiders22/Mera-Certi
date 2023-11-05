@@ -10,6 +10,17 @@
     tools:layout_editor_absoluteY="1dp">
 
     <Button
+        android:elevation="1dp"
+        android:padding="1dp"
+
+
+        android:outlineAmbientShadowColor="#000000"
+        android:translationZ="1dp"
+        android:outlineProvider="background"
+        android:shadowDx="@integer/material_motion_duration_long_1"
+
+        android:stateListAnimator="@null"
+        android:shadowColor="@color/black"
         android:id="@+id/button10_2"
         android:layout_width="360dp"
         android:layout_height="60dp"
@@ -27,6 +38,17 @@
         app:layout_constraintVertical_bias="0.369" />
 
     <Button
+        android:elevation="1dp"
+        android:padding="1dp"
+
+
+        android:outlineAmbientShadowColor="#000000"
+        android:translationZ="1dp"
+        android:outlineProvider="background"
+        android:shadowDx="@integer/material_motion_duration_long_1"
+
+        android:stateListAnimator="@null"
+        android:shadowColor="@color/black"
         android:id="@+id/button10"
         android:layout_width="360dp"
         android:layout_height="60dp"
@@ -43,6 +65,17 @@
         app:layout_constraintVertical_bias="0.26" />
 
     <Button
+        android:elevation="1dp"
+        android:padding="1dp"
+
+
+        android:outlineAmbientShadowColor="#000000"
+        android:translationZ="1dp"
+        android:outlineProvider="background"
+        android:shadowDx="@integer/material_motion_duration_long_1"
+
+        android:stateListAnimator="@null"
+        android:shadowColor="@color/black"
         android:id="@+id/button10_3"
         android:layout_width="360dp"
         android:layout_height="60dp"
@@ -59,6 +92,17 @@
         app:layout_constraintVertical_bias="0.476" />
 
     <Button
+        android:elevation="1dp"
+        android:padding="1dp"
+
+
+        android:outlineAmbientShadowColor="#000000"
+        android:translationZ="1dp"
+        android:outlineProvider="background"
+        android:shadowDx="@integer/material_motion_duration_long_1"
+
+        android:stateListAnimator="@null"
+        android:shadowColor="@color/black"
         android:id="@+id/button10_4"
         android:layout_width="374dp"
         android:layout_height="120dp"
@@ -76,6 +120,17 @@
 
 
     <Button
+        android:elevation="1dp"
+        android:padding="1dp"
+
+
+        android:outlineAmbientShadowColor="#000000"
+        android:translationZ="1dp"
+        android:outlineProvider="background"
+        android:shadowDx="@integer/material_motion_duration_long_1"
+
+        android:stateListAnimator="@null"
+        android:shadowColor="@color/black"
         android:id="@+id/button10_5"
         android:layout_width="374dp"
         android:layout_height="60dp"

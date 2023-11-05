@@ -7,10 +7,11 @@
     tools:context=".page9_step_wise_procedure"
     android:background="@drawable/page12">
 
-    <ImageButton
+    <androidx.appcompat.widget.AppCompatImageButton
         android:id="@+id/imageButton6"
         android:layout_width="72dp"
         android:layout_height="68dp"
+
         android:background="@drawable/round_button"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

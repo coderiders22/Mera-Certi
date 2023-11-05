@@ -22,6 +22,17 @@
         app:srcCompat="@drawable/page4" />
 
     <Button
+        android:elevation="1dp"
+        android:padding="1dp"
+
+
+        android:outlineAmbientShadowColor="#000000"
+        android:translationZ="1dp"
+        android:outlineProvider="background"
+        android:shadowDx="@integer/material_motion_duration_long_1"
+
+        android:stateListAnimator="@null"
+        android:shadowColor="@color/black"
         android:id="@+id/button4"
         android:layout_width="324dp"
         android:layout_height="62dp"
@@ -40,6 +51,17 @@
 
     <Button
         android:id="@+id/button4_2"
+        android:elevation="1dp"
+        android:padding="1dp"
+
+
+        android:outlineAmbientShadowColor="#000000"
+        android:translationZ="1dp"
+        android:outlineProvider="background"
+        android:shadowDx="@integer/material_motion_duration_long_1"
+
+        android:stateListAnimator="@null"
+        android:shadowColor="@color/black"
         android:layout_width="324dp"
         android:layout_height="62dp"
         android:fontFamily="@font/montserratb"
