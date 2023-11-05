@@ -29,4 +29,10 @@ public class page9_detailed_elegibility extends AppCompatActivity {
         });
 
     }
+    public void onBackPressed() {
+        // Stop audio playback when the back button is pressed
+        super.onBackPressed();
+        mysound.stop();
+
+    }
 }

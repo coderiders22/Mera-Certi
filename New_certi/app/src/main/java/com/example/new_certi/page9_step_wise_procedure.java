@@ -27,4 +27,10 @@ public class page9_step_wise_procedure extends AppCompatActivity {
         });
 
     }
+    public void onBackPressed() {
+        // Stop audio playback when the back button is pressed
+        super.onBackPressed();
+        mysound.stop();
+
+    }
 }

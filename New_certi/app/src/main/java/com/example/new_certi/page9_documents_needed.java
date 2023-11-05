@@ -28,4 +28,10 @@ public class page9_documents_needed extends AppCompatActivity {
         });
 
     }
+    public void onBackPressed() {
+        // Stop audio playback when the back button is pressed
+        super.onBackPressed();
+        mysound.stop();
+
+    }
 }

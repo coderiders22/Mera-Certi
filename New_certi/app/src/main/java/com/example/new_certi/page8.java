@@ -32,6 +32,7 @@ public class page8 extends AppCompatActivity {
                 openActivity2();
             }
         });
+
         play.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -85,6 +86,12 @@ public class page8 extends AppCompatActivity {
     public void openActivity3(){
         Intent intent = new Intent(this, page9_step_wise_procedure.class);
         startActivity(intent);
+    }
+    public void onBackPressed() {
+        // Stop audio playback when the back button is pressed
+        super.onBackPressed();
+        mysound.stop();
+
     }
 
     public void openActivity4(){
