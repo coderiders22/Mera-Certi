@@ -3420,7 +3420,6 @@ id ignoreRequest
 id image
 id imageButton
 id imageButton2
-id imageButton3
 id imageButton4
 id imageButton6
 id imageView
@@ -3428,6 +3427,7 @@ id imageView2
 id imageView3
 id imageView4
 id imageView5
+id imageView6
 id immediateStop
 id included
 id indeterminate

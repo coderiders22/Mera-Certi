@@ -19,7 +19,7 @@ public class page9_detailed_elegibility extends AppCompatActivity {
 
         mysound=MediaPlayer.create(page9_detailed_elegibility.this,R.raw.eligibility);
 
-        play =  findViewById(R.id.imageButton3);
+        play =  findViewById(R.id.imageButton);
         play.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

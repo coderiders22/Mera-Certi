@@ -3419,7 +3419,6 @@ int id ignoreRequest 0x7f09010c
 int id image 0x7f09010d
 int id imageButton 0x7f09010e
 int id imageButton2 0x7f09010f
-int id imageButton3 0x7f090110
 int id imageButton4 0x7f090111
 int id imageButton6 0x7f090112
 int id imageView 0x7f090113
@@ -3427,6 +3426,7 @@ int id imageView2 0x7f090114
 int id imageView3 0x7f090115
 int id imageView4 0x7f090116
 int id imageView5 0x7f090117
+int id imageView6 0x7f090241
 int id immediateStop 0x7f090118
 int id included 0x7f090119
 int id indeterminate 0x7f09011a

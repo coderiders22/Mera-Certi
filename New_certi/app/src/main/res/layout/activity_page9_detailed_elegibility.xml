@@ -8,7 +8,8 @@
     android:background="@drawable/page11">
 
     <ImageButton
-        android:id="@+id/imageButton3"
+        android:id="@+id/imageButton"
+         android:visibility="visible"
         android:layout_width="72dp"
         android:layout_height="68dp"
         android:background="@drawable/round_button"
@@ -19,4 +20,12 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.02"
         app:srcCompat="@android:drawable/ic_media_play" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@android:drawable/ic_media_play"
+        tools:layout_editor_absoluteX="189dp"
+        tools:layout_editor_absoluteY="34dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>

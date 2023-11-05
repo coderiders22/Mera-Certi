@@ -17,6 +17,7 @@
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/new_certi/page9_detailed_elegibility.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/new_certi/page9_detailed_elegibility.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/new_certi/page9_documents_needed.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/new_certi/page9_documents_needed.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/new_certi/page9_step_wise_procedure.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/new_certi/page9_step_wise_procedure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_page9_detailed_elegibility.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_page9_detailed_elegibility.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
