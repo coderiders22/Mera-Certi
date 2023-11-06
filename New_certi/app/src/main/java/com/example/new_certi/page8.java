@@ -11,7 +11,7 @@ import android.widget.ImageButton;
 
 public class page8 extends AppCompatActivity {
 
-    private Button button;
+    private Button button,button4;
     MediaPlayer mysound;
     ImageButton play;
 
@@ -58,8 +58,8 @@ public class page8 extends AppCompatActivity {
             }
         });
 
-        button = findViewById(R.id.button10_4);
-        button.setOnClickListener(new View.OnClickListener() {
+        button4 = findViewById(R.id.button10_4);
+        button4.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 mysound.stop();

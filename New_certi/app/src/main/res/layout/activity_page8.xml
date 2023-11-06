@@ -94,8 +94,6 @@
     <Button
         android:elevation="1dp"
         android:padding="1dp"
-
-
         android:outlineAmbientShadowColor="#000000"
         android:translationZ="1dp"
         android:outlineProvider="background"

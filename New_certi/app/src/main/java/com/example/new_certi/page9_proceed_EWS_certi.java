@@ -91,7 +91,7 @@ public class page9_proceed_EWS_certi extends AppCompatActivity {
 
 
     public void openActivity2(){
-        Intent intent = new Intent(this, page10.class);
+        Intent intent = new Intent(page9_proceed_EWS_certi.this, page10.class);
         startActivity(intent);
     }
 }

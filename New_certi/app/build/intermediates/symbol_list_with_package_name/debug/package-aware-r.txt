@@ -3221,6 +3221,7 @@ id action_text
 id actions
 id activity_chooser_view_content
 id add
+id addmember
 id adjust_height
 id adjust_width
 id alertTitle
@@ -3268,7 +3269,6 @@ id button18
 id button19
 id button2
 id button20
-id button20_3
 id button21
 id button2_1
 id button4

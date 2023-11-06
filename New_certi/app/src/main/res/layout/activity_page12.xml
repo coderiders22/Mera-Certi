@@ -19,7 +19,7 @@
         app:layout_constraintVertical_bias="0.994" />
 
     <androidx.appcompat.widget.AppCompatButton
-        android:id="@+id/button20_3"
+        android:id="@+id/addmember"
         android:layout_width="363dp"
         android:layout_height="30dp"
         android:text="+Add members "
@@ -51,7 +51,7 @@
         app:layout_constraintVertical_bias="0.942" />
 
     <EditText
-        android:id="@+id/editTextText"
+        android:id="@+id/editTextText2"
         android:layout_width="297dp"
         android:layout_height="29dp"
         android:background="#e5e7e9"
@@ -67,7 +67,7 @@
 
 
     <EditText
-        android:id="@+id/editTextText2"
+        android:id="@+id/editTextText4"
         android:layout_width="297dp"
         android:layout_height="29dp"
         android:background="#e5e7e9"
@@ -81,7 +81,7 @@
         app:layout_constraintVertical_bias="0.534" />
 
     <EditText
-        android:id="@+id/editTextText7"
+        android:id="@+id/editTextText5"
         android:layout_width="297dp"
         android:layout_height="29dp"
         android:background="#e5e7e9"
@@ -95,7 +95,7 @@
         app:layout_constraintVertical_bias="0.633" />
 
     <EditText
-        android:id="@+id/editTextText5"
+        android:id="@+id/editTextText3"
         android:layout_width="297dp"
         android:layout_height="29dp"
         android:background="#e5e7e9"
@@ -109,7 +109,7 @@
         app:layout_constraintVertical_bias="0.433" />
 
     <EditText
-        android:id="@+id/editTextText6"
+        android:id="@+id/editTextText"
         android:layout_width="297dp"
         android:layout_height="29dp"
         android:background="#e5e7e9"

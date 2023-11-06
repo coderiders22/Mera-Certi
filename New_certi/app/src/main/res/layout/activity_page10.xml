@@ -78,13 +78,15 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.855" />
 
-    <EditText
+    <TextView
         android:id="@+id/editTextText4"
         android:layout_width="297dp"
         android:layout_height="29dp"
         android:background="#bcbdc1"
-        android:hint="Type here"
-        android:inputType="text"
+        android:text="HARYANA"
+
+        android:textColor="#d4282c"
+        android:textSize="20dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.395"
@@ -126,6 +128,7 @@
         android:layout_height="29dp"
         android:background="#e5e7e9"
         android:hint="Type here"
+
         android:inputType="text"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

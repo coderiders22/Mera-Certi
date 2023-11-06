@@ -38,6 +38,7 @@ drawable round_button
 drawable shadow_button
 font montserrat
 font montserratb
+id addmember
 id button
 id button10
 id button10_2
@@ -49,7 +50,6 @@ id button18
 id button19
 id button2
 id button20
-id button20_3
 id button21
 id button2_1
 id button4

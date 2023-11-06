@@ -36,7 +36,7 @@
         app:layout_constraintVertical_bias="0.942" />
 
     <EditText
-        android:id="@+id/editTextText"
+        android:id="@+id/editTextText2"
         android:layout_width="297dp"
         android:layout_height="29dp"
         android:background="#e5e7e9"
@@ -51,7 +51,7 @@
         app:layout_constraintVertical_bias="0.346" />
 
     <EditText
-        android:id="@+id/editTextText2"
+        android:id="@+id/editTextText4"
         android:layout_width="297dp"
         android:layout_height="29dp"
         android:background="#e5e7e9"
@@ -66,13 +66,15 @@
 
 
 
-    <EditText
-        android:id="@+id/editTextText4"
+    <TextView
+        android:id="@+id/editTextText6"
         android:layout_width="297dp"
         android:layout_height="29dp"
         android:background="#d1d2d4"
-        android:hint="Type here"
-        android:inputType="date"
+        android:text="2023-24"
+        android:textColor="#d4282c"
+
+        android:textSize="20dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.395"
@@ -81,7 +83,7 @@
         app:layout_constraintVertical_bias="0.751" />
 
     <EditText
-        android:id="@+id/editTextText7"
+        android:id="@+id/editTextText5"
         android:layout_width="297dp"
         android:layout_height="29dp"
         android:background="#e5e7e9"
@@ -95,7 +97,7 @@
         app:layout_constraintVertical_bias="0.65" />
 
     <EditText
-        android:id="@+id/editTextText5"
+        android:id="@+id/editTextText3"
         android:layout_width="297dp"
         android:layout_height="29dp"
         android:background="#e5e7e9"
@@ -110,7 +112,7 @@
         app:layout_constraintVertical_bias="0.454" />
 
     <EditText
-        android:id="@+id/editTextText6"
+        android:id="@+id/editTextText"
 
         android:layout_width="297dp"
         android:layout_height="29dp"
