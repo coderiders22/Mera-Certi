@@ -292,16 +292,16 @@
         "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.new_certi.app-main-40:\\layout\\activity_page9_step_wise_procedure.xml"
     },
     {
+        "merged": "com.example.new_certi.app-merged_res-38:/layout_activity_page11.xml.flat",
+        "source": "com.example.new_certi.app-main-40:/layout/activity_page11.xml"
+    },
+    {
         "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.new_certi.app-merged_res-38:\\drawable_page16.jpg.flat",
         "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.new_certi.app-main-40:\\drawable\\page16.jpg"
     },
     {
         "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.new_certi.app-merged_res-38:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
         "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.new_certi.app-main-40:\\mipmap-hdpi\\ic_launcher_foreground.webp"
-    },
-    {
-        "merged": "com.example.new_certi.app-merged_res-38:/layout_activity_page8.xml.flat",
-        "source": "com.example.new_certi.app-main-40:/layout/activity_page8.xml"
     },
     {
         "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.new_certi.app-merged_res-38:\\drawable_button.png.flat",
