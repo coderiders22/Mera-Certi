@@ -9,14 +9,14 @@
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="389dp"
-        android:layout_height="91dp"
+        android:layout_width="405dp"
+        android:layout_height="150dp"
         android:background="@color/white"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.994" />
+        app:layout_constraintVertical_bias="0.983" />
 
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/button19"
@@ -100,6 +100,7 @@
         android:layout_height="29dp"
         android:background="#e5e7e9"
         android:hint="Type here"
+
         android:inputType="number"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -110,6 +111,7 @@
 
     <EditText
         android:id="@+id/editTextText6"
+
         android:layout_width="297dp"
         android:layout_height="29dp"
         android:background="#e5e7e9"
@@ -122,6 +124,47 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.246" />
+
+    <TextView
+        android:layout_width="354dp"
+        android:layout_height="44dp"
+        android:fontFamily="@font/montserratb"
+
+        android:text="Upload signature (format jpg,100kb size limit)*"
+        android:textColor="#d4282c"
+        android:textSize="13dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.82"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.831" />
+
+    <Button
+        android:id="@+id/gallery7"
+        android:layout_width="310dp"
+        android:layout_height="35dp"
+        android:backgroundTint="#e5e7e9"
+        android:elevation="1dp"
+        android:fontFamily="@font/montserratb"
+        android:textColor="#ea1f25"
+
+        android:outlineAmbientShadowColor="#000000"
+        android:outlineProvider="background"
+        android:padding="1dp"
+        android:textStyle="normal"
+        android:shadowColor="@color/black"
+        android:shadowDx="@integer/material_motion_duration_long_1"
+        android:stateListAnimator="@null"
+        android:text="UPLOAD"
+        android:textSize="17dp"
+        android:translationZ="1dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.394"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.851" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

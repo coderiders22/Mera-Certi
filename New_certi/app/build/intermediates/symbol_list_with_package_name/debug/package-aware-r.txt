@@ -3408,6 +3408,7 @@ id gallery2
 id gallery3
 id gallery4
 id gallery5
+id gallery7
 id ghost_view
 id ghost_view_holder
 id gone
